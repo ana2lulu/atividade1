@@ -1,0 +1,23 @@
+*{
+    margin: 10;
+    padding: 10;
+    box-sizing: border-box;
+}
+img{
+    height: 200px;
+    margin-left: 500px;
+    margin-top: 4px;
+    text-align: center;
+    
+    
+  }
+
+  to {
+    margin-left: 0%;
+    width: 100%;
+  }
+img{
+    margin-left: 50px;
+}
+
+ 
